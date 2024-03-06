@@ -17,3 +17,6 @@ const findTarget = (arr, target) => {
 const arr = [10, 15, 3, 7];
 let target = 17;
 console.log(findTarget(arr, target));
+
+//Time complexity : O(n)
+//Space Complexity: O(n)
