@@ -34,3 +34,5 @@ console.log(indexProd([1,2,3,4,5]))
 console.log(indexProd([3,2,1]))
 
 
+//Time Complexity: O(n)
+//Space Complexity: O(n)
